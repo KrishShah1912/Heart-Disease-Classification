@@ -1,5 +1,5 @@
-🫀 Heart Disease Classification 
-– End-to-End ML Pipeline
+🫀 Heart Disease Classification – End-to-End ML Pipeline
+
 This project presents a complete machine learning pipeline for predicting heart disease using clinical data. It demonstrates data preprocessing, exploratory analysis, model training, hyperparameter tuning, and performance evaluation—all wrapped in a clean, reproducible workflow.
 
 📌 Project Highlights
