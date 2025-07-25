@@ -9,7 +9,7 @@ This project presents a complete machine learning pipeline for predicting heart 
 4. Modeling Techniques: Logistic Regression, Random Forest, Decision Tree, KNN, SVM
 5. Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
 
-#🧠 Workflow Overview
+# 🧠 Workflow Overview
 
 1. Data Loading & Inspection
    * Read CSV data
@@ -31,5 +31,5 @@ This project presents a complete machine learning pipeline for predicting heart 
    * ROC curve visualization
 
 
-#📊 Results:
+# 📊 Results:
   ✅ Model Accuracy: 88.5%
