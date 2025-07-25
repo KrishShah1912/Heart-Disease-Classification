@@ -1,15 +1,15 @@
-🫀 Heart Disease Classification – Using Machine Learning
+# 🫀 Heart Disease Classification – Using Machine Learning
 
 This project presents a complete machine learning pipeline for predicting heart disease using clinical data. It demonstrates data preprocessing, exploratory analysis, model training, hyperparameter tuning, and performance evaluation—all wrapped in a clean, reproducible workflow.
 
-📌 Project Highlights
+# 📌 Project Highlights
 1. Dataset: UCI Heart Disease dataset (processed version)
 2. Goal: Binary classification to predict presence of heart disease
 3. Tech Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 4. Modeling Techniques: Logistic Regression, Random Forest, Decision Tree, KNN, SVM
 5. Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC-AUC
 
-🧠 Workflow Overview
+#🧠 Workflow Overview
 
 1. Data Loading & Inspection
    * Read CSV data
@@ -31,5 +31,5 @@ This project presents a complete machine learning pipeline for predicting heart 
    * ROC curve visualization
 
 
-📊 Results:
+#📊 Results:
   ✅ Model Accuracy: 88.5%
